@@ -8,10 +8,8 @@ Tools that I'm going to make:
 
 - [x] Dosing ring
 
-- [ ] Tamper
+- [x] Tamper
 
-- [ ] Holder
+- [x] Holder
 
 I will eventually update the STL files to thingiverse.com too.
-
-
