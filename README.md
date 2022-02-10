@@ -13,3 +13,17 @@ Tools that I'm going to make:
 - [x] Holder
 
 I will eventually update the STL files to thingiverse.com too.
+
+Screenshots:
+
+```
+![Dosing ring](/images/ring.jpg?raw=true "Dosing ring")
+```
+
+```
+![Tamper](/images/tamper.jpg?raw=true "Tamper")
+```
+
+```
+![Holder](/images/holder.jpg?raw=true "Holder")
+```
